@@ -1,6 +1,6 @@
 # 딥러닝(데이터분석/머신러닝)을 위한 수학
-## 한대희 @ 마이캠퍼스, daehee@mycampus.io,  010-2101-0255
-데이터분석, 인공지능기술을 위한 답러닝 스쿨 -> http://study.mycampus.io
+## 한대희 @ 뉴럴웍스랩, daehee@neuralworks.io,  010-2101-0255
+노코드 AI, 딥러닝 SaaS. 뉴럴스튜디오 - neuralworks.io
 
 
 
